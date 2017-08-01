@@ -8,3 +8,6 @@
 
 * list bullet
 * list bullet
+
+
+[Reset Demystified](https://git-scm.com/blog)
