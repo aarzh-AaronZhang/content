@@ -6,3 +6,5 @@
 2. number bullet 
 
 
+* list bullet
+* list bullet
