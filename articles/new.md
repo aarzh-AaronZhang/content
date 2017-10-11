@@ -9,5 +9,6 @@
 * list bullet
 * list bullet
 
+update this article on 10/112017
 
 [Reset Demystified](https://git-scm.com/blog)
